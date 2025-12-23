@@ -35,6 +35,7 @@ A Python Tkinter-based desktop weather application that fetches real-time data f
 ---
 ## 📂 Project Structure
 weather_app.py
+
 README.md 
 
 ---
@@ -73,6 +74,4 @@ If you want, I can:
 - Add **installation troubleshooting**
 
 Just tell me 😊
-
-## 📂 Project Structure
 
