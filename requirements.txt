@@ -1,0 +1,26 @@
+# ----------------------------------
+# Core HTTP & API handling
+# ----------------------------------
+requests>=2.28.0
+
+# ----------------------------------
+# Image processing (for weather icons)
+# ----------------------------------
+Pillow>=9.0.0
+
+# ----------------------------------
+# Optional: Environment & config
+# (useful if API keys are moved to env vars later)
+# ----------------------------------
+python-dotenv>=1.0.0
+
+# ----------------------------------
+# Optional: Development & debugging
+# ----------------------------------
+urllib3>=1.26.0
+
+# ----------------------------------
+# Notes:
+# - tkinter is bundled with Python (no installation required)
+# - datetime, io, os are standard Python libraries
+# ----------------------------------
