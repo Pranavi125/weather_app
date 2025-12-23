@@ -54,24 +54,3 @@ API_KEY = "your_api_key_here"
 3️⃣ Run the Application:
 python weather_app.py
 
-📜 License
-
-This project is created for educational purposes.
-
----
-
-## ✅ This README is now:
-✔ Clean  
-✔ Professional  
-✔ College-friendly  
-✔ GitHub-ready  
-✔ Viva-safe  
-
-If you want, I can:
-- Shorten it further
-- Customize it to your **college format**
-- Improve wording for **placements**
-- Add **installation troubleshooting**
-
-Just tell me 😊
-
